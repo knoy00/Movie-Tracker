@@ -71,11 +71,4 @@ ul li{
 
 ul li:hover{
     background: black;
-    
-}
-
-@media(max-width: 828px){
-    .container{
-        width: 100%;
-    }
 }
